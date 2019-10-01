@@ -17,3 +17,4 @@ CTF write-ups from c0c0n 2019 CTF challenges that we participated
 * [Brazil - Digital Fragments](domectf/brazil.md)
 * [United States - Play Store](domectf/usa.md)
 * [Algeria - Evil Conference](domectf/algeria.md)
+* [Botswana - The Rules](domectf/botswana.md)
